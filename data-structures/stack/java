@@ -1,0 +1,9 @@
+public class Person {
+
+  private String name;
+  private String rollNum;
+  public Person(String name, String rollNum){
+    this.name
+  }
+
+}
